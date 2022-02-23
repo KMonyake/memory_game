@@ -2,9 +2,9 @@
 
 
 # How to Play
->> Select 2 cards which you believe hide the same item to score a point.
->> Repeat until all cards are revealed to win.
->> Try to complete this task in the least amount of turns.
+> Select 2 cards which you believe hide the same item to score a point.
+> Repeat until all cards are revealed to win.
+> Try to complete this task in the least amount of turns.
 
 ## Run the project
 
